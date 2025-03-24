@@ -18,8 +18,13 @@
     <ClCompile Include="main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="learningProject\variable.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Cpp.md" />
+    <None Include="notes\Cpp.md">
+      <Filter>资源文件</Filter>
+    </None>
   </ItemGroup>
 </Project>

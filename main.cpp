@@ -1,17 +1,20 @@
+/*
+* 
 #include <iostream>
+using namespace std;
 
 class CG {
 public:
 	int age;
 	char name[10];
 
-
 };
 
 
 int main(void) {
 
-	std::cout << "Hello Wrold!" << std::endl;
-	std::cin.get();
-	return 0;
+	cout << "Hello World!" << endl;
+	cin.get();
 }
+*
+*/
